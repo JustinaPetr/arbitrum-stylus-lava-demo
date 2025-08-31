@@ -12,7 +12,7 @@ export const CONFIG = {
       symbol: "ETH",
       decimals: 18
     },
-    rpcUrls: ["https://g.w.lavanet.xyz:443/gateway/arbitrums/rpc-http/c4e67e1bdf22f6bca28c909d05621240"],
+    rpcUrls: [""],
     blockExplorerUrls: ["https://sepolia.arbiscan.io/"]
   },
   
