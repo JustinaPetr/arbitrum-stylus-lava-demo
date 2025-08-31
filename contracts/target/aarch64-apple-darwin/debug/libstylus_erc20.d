@@ -1,0 +1,1 @@
+/Users/justinapetraityte/Desktop/arbst/ArbitrumStylus_RUST/example-token-app/contracts/target/aarch64-apple-darwin/debug/libstylus_erc20.dylib: /Users/justinapetraityte/Desktop/arbst/ArbitrumStylus_RUST/example-token-app/contracts/src/erc20.rs /Users/justinapetraityte/Desktop/arbst/ArbitrumStylus_RUST/example-token-app/contracts/src/lib.rs

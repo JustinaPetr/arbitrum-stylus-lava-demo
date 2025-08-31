@@ -1,0 +1,1 @@
+/Users/justinapetraityte/Desktop/arbst/ArbitrumStylus_RUST/example-token-app/contracts/target/wasm32-unknown-unknown/release/stylus_erc20.wasm: /Users/justinapetraityte/Desktop/arbst/ArbitrumStylus_RUST/example-token-app/contracts/src/erc20.rs /Users/justinapetraityte/Desktop/arbst/ArbitrumStylus_RUST/example-token-app/contracts/src/lib.rs
