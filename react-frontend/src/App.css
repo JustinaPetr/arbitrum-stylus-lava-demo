@@ -146,9 +146,6 @@ body{
 .token-actions{display:grid;grid-template-columns:1fr;gap:20px}
 @media (min-width: 800px){.token-actions{grid-template-columns:1fr 1fr}}
 
-/* Remove candy machine visuals from original theme */
-.candy-machine,.machine-top,.machine-dome,.machine-body,.machine-slot,.machine-knob,.machine-base,.candy{display:none !important}
-
 /* Footer (legacy selector) */
 footer{padding:24px;background:transparent;margin-top:24px;color:var(--muted)}
 
