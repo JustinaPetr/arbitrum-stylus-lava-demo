@@ -1,6 +1,6 @@
-# Creating a ERC-20 token on Arbitrum Sepolia using Arbitrum Stylus and Lava RPC
+# Create and interact with a ERC-20 token on Arbitrum Sepolia using Arbitrum Stylus and Lava RPC
 
-A minimal dApp create to showcase the process of creating an ERC-20 token on Arbitrum Sepolia. Contract deployed using Arbitrum Stylus, powered by Lava RPC for contract deployment as well as dApp interactions.
+A minimal dApp to showcase the process of creating an ERC-20 token on Arbitrum Sepolia. The contract, written in Rust, is deployed using Arbitrum Stylus. Lava RPC is used for contract deployment as well as dApp interactions.
 
 ## Project Structure
 
@@ -32,7 +32,7 @@ cd contracts
 
 cargo stylus check 
 
-cargo stylus deploy --no-verify --endpoint='your-lava-gateway-endpoint' --private-key="your-private-key"
+cargo stylus deploy --no-verify --endpoint='https://arbitrums.lava.build' --private-key="your-private-key"
 
 ```
 
